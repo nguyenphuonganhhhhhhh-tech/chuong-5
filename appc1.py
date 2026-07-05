@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Thiết lập cấu hình trang hiển thị trực quan
-st.set_page_config(page_title="Kiểm tra Quang sinh học", page_icon="☀️", layout="centered")
+st.set_page_config(page_title="CHƯƠNG 5", page_icon="☀️", layout="centered")
 
 # --- DỮ LIỆU PHẦN I: 100 CÂU HỎI TRẮC NGHIỆM ---
 quiz_data = [
